@@ -4,6 +4,15 @@ Solução em C# (.NET 10), com um projeto de console para cada questão.
 
 ## Como rodar
 
+### No navegador (sem instalar nada)
+
+[![Abrir no GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/yuriown/desafio-tecnico-csharp?quickstart=1)
+
+Clique no botão (precisa estar logado no GitHub). O ambiente já vem com o .NET 10 e o projeto
+compilado; quando abrir, rode os comandos abaixo no terminal.
+
+### Na máquina
+
 Requer o .NET SDK 10.
 
 ```bash

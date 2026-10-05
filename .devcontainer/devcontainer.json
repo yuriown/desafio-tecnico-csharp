@@ -1,0 +1,10 @@
+{
+  "name": "Desafio Técnico C# (.NET 10)",
+  "image": "mcr.microsoft.com/devcontainers/dotnet:1-10.0",
+  "postCreateCommand": "dotnet build DesafioTecnico.slnx",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-dotnettools.csharp"]
+    }
+  }
+}
