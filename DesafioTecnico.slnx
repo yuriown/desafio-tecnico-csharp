@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Comissao/Comissao.csproj" />
+  <Project Path="Estoque/Estoque.csproj" />
+  <Project Path="Juros/Juros.csproj" />
+</Solution>
